@@ -1,4 +1,4 @@
-exports.parseString = function(pattern, data, missingKeyString=''){
+module.exports.parseString = function(pattern, data, missingKeyString=''){
     if(pattern==undefined || !(typeof pattern === 'string' || pattern instanceof String)){
         return "";
     }

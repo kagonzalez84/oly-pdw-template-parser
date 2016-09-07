@@ -1,6 +1,6 @@
 {
   "name": "oly-pdw-template-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Template Parser for Olympusat Partner Distribution Project",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "bitbucket://github.com/brentertz/scapegoat.git"
+    "url": "git://github.com/kagonzalez84/oly-pdw-template-parser.git"
   },
   "author": "",
   "license": "ISC"
